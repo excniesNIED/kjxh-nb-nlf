@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+.deploy*/
+package-lock.json
+yarn.lock
+.vitepress/dist
+*.local
+.vitepress/cache
+
+.idea/*
